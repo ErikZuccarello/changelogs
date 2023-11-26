@@ -8,4 +8,5 @@
 - Aggiunta funzione abilita e disabilita utente
 - Aggiunta funzione ricerca utente per ID o Nome
 - Aggiunta sezione changelog
+- Aggiunta funzione bug report
 
