@@ -1,3 +1,5 @@
+**Table of Contents**
+
 ## Versione 1.0.0  
 - Aggiunta sezione ordini con visualizzazione ordini per stato
 - Aggiunta funzione ricerca ordine per ID o Nome  
