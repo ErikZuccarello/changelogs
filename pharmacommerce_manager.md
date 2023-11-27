@@ -9,4 +9,5 @@
 - Aggiunta funzione ricerca utente per ID o Nome
 - Aggiunta sezione changelog
 - Aggiunta funzione bug report
+- Aggiunta funzione di aggiornamento tramite PharmaCommerceManager_Updater
 
