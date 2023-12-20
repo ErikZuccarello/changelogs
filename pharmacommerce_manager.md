@@ -1,3 +1,8 @@
+## Versione 1.1.1 
+- Aggiunta funzione "In attesa" in gestione consegne
+- Miglioramento funzione "Note" con immissione multi line in gestione consegne
+
+
 ## Versione 1.1.0 
 - Aggiunta sezione gestione consegne
 - Aggiunta lista contatti in tempo reale con ricerca per qualsiasi campo in gestione consegne
