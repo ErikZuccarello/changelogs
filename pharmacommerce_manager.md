@@ -1,3 +1,25 @@
+## Versione 2.0.0 
+- Aggiunta sezione monitora consegne
+- Aggiunta mappa tramite API Google Maps Platform in monitora consegne
+- Aggiunta visualizzazione consegne sulla mappa in monitora consegne
+- Aggiunta visualizzazione dettagli consegna sulla mappa in monitora consegne
+- Aggiunta funzione di visualizzazione stato consegne in tempo reale in monitora consegne
+- Aggiunta funzione di tracciamento posizione del corriere in tempo reale in monitora consegne
+- Aggiunta sezione report consegne
+- Aggiunta visualizzazione informazioni report per tipo di pagamento in report consegne
+- Aggiunta lista consegne con informazioni sul tipo di pagamento in report consegne
+- Aggiunta funzione stampa report in report consegne
+- Aggiunta funzione salva report in PDF in report consegne
+
+
+## Versione 1.2.0 
+- Aggiunta sezione crea percorso
+- Aggiunta funzione ottimizza percorso tramite API Here in crea percorso
+- Aggiunta funzione orario di partenza in crea percorso
+- Aggiunta funzione ottimizza in base al traffico in crea percorso
+- Aggiunta lista consegne ottimizzata con orari di arrivo previsionali in crea percorso
+
+
 ## Versione 1.1.1 
 - Aggiunta funzione "In attesa" in gestione consegne
 - Miglioramento funzione "Note" con immissione multi line in gestione consegne
