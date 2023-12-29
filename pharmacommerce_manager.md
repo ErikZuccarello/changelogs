@@ -1,5 +1,6 @@
 ## Versione 2.1.2 
 - Bug fix contatori in report consegne
+- Bug fix posizione corriere in monitora consegne
 
 
 ## Versione 2.1.1 
