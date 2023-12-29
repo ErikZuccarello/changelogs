@@ -1,3 +1,7 @@
+## Versione 2.1.2 
+- Bug fix contatori in report consegne
+
+
 ## Versione 2.1.1 
 - Bug fix caricamento consegne con valore "in attesa" in gestione consegne
 - Bug fix aggiungi consegne non ottimizzate per indirizzo non valido alla fine della lista in crea percorso
