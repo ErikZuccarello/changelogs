@@ -1,3 +1,11 @@
+## Versione 2.1.0 
+- Aggiunta funzione sposta consegna in gestione consegne
+
+
+## Versione 2.0.1 
+- Fix funzione modifica contatto, aggiungi ai contatti se non presente
+
+
 ## Versione 2.0.0 
 - Aggiunta sezione monitora consegne
 - Aggiunta mappa tramite API Google Maps Platform in monitora consegne
