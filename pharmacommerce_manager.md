@@ -1,3 +1,15 @@
+## Versione 2.1.4
+- Bug fix waypoints su mappa in monitora consegne
+- Aggiunta visualizzazione consegne rimanenti su mappa in monitora consegne
+- Aggiunta sequenza waypoint su lista consegne in monitora consegne
+- Aggiunta funzione rimuovi consegna su info window in monitora consegne
+
+
+## Versione 2.1.3 
+- Bug fix ottimizza percorso in crea percorso
+- Aggiunta funzione modifica campi consegna visibili al corriere in crea percorso
+
+
 ## Versione 2.1.2 
 - Bug fix contatori in report consegne
 - Bug fix posizione corriere in monitora consegne
