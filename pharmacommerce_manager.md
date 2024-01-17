@@ -1,3 +1,13 @@
+## Versione 2.2.0
+- Aggiunta sezione Contenuti
+- Aggiunta funzione visualizza contenuti carousel immagini e video
+- Aggiunta funzione cerca prodotti tramite API OpenCart
+- Aggiunta funzione aggiungi contenuti in app tramite caricamento FTP a server principale
+- Aggiunta sezione Categorie
+- Aggiunta funzione visualizza categorie in app
+- Aggiunta funzione Categorizza prodotti tramite API e SQL query a database OpenCart
+
+
 ## Versione 2.1.4
 - Bug fix waypoints su mappa in monitora consegne
 - Aggiunta visualizzazione consegne rimanenti su mappa in monitora consegne
