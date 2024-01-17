@@ -3,6 +3,7 @@
 - Aggiunta funzione visualizza contenuti carousel immagini e video
 - Aggiunta funzione cerca prodotti tramite API OpenCart
 - Aggiunta funzione aggiungi contenuti in app tramite caricamento FTP a server principale
+- Aggiunta funzione rimuovi contenuti in app
 - Aggiunta sezione Categorie
 - Aggiunta funzione visualizza categorie in app
 - Aggiunta funzione Categorizza prodotti tramite API e SQL query a database OpenCart
