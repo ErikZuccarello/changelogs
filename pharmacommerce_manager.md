@@ -1,15 +1,16 @@
 ## Versione 2.2.0
 - Aggiunta sezione Contenuti
-- Aggiunta funzione visualizza contenuti carousel immagini e video
-- Aggiunta funzione cerca prodotti tramite API OpenCart
-- Aggiunta funzione aggiungi contenuti in app tramite caricamento FTP a server principale
-- Aggiunta funzione rimuovi contenuti in app
+- Aggiunta funzione visualizza contenuti carousel immagini e video in Contenuti
+- Aggiunta funzione cerca prodotti tramite API OpenCart in Contenuti
+- Aggiunta funzione aggiungi contenuti in app tramite caricamento FTP a server principale in Contenuti
+- Aggiunta funzione rimuovi contenuti in app in Contenuti
 - Aggiunta sezione Categorie
-- Aggiunta funzione visualizza categorie in app
-- Aggiunta funzione Categorizza prodotti tramite API e SQL query a database OpenCart
+- Aggiunta funzione visualizza categorie in app in Categorie
+- Aggiunta funzione Categorizza prodotti tramite API e SQL query a database OpenCart in Categorie
 - Sostituito Backend Python in sezione Ordini con API C# Cloud Firestore
 - Sostituito Backend Python in sezione Utenti con API C# Cloud Firestore
 - Aggiunta funzione Aggiungi alle consegne in Dettagli ordine
+- Aggiunto invio notifica push a dispositivo utente su cambio stato In preparazione in Dettagli ordine
 
 
 ## Versione 2.1.4
