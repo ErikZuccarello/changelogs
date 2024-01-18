@@ -8,6 +8,7 @@
 - Aggiunta funzione visualizza categorie in app
 - Aggiunta funzione Categorizza prodotti tramite API e SQL query a database OpenCart
 - Sostituito Backend Python in sezione Ordini con API C# Cloud Firestore
+- Sostituito Backend Python in sezione Utenti con API C# Cloud Firestore
 - Aggiunta funzione Aggiungi alle consegne in Dettagli ordine
 
 
