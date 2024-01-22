@@ -1,4 +1,4 @@
-## Versione 2.3.0
+## Versione 2.2.1
 - Aggiunta funzione Prenotazione in gestione consegne
 - Aggiunta funzione Apri ordine per ordini da app in gestione consegne
 - Fix su Aggiungi importo, pulsante esc per annullare inserimento
