@@ -1,3 +1,9 @@
+## Versione 2.3.0
+- Aggiunta funzione Prenotazione in gestione consegne
+- Aggiunta funzione Apri ordine per ordini da app in gestione consegne
+- Fix su Aggiungi importo, pulsante esc per annullare inserimento
+
+
 ## Versione 2.2.0
 - Aggiunta sezione Contenuti
 - Aggiunta funzione visualizza contenuti carousel immagini e video in Contenuti
