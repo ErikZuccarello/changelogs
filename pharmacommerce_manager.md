@@ -3,6 +3,7 @@
 - Aggiunta funzione Apri ordine per ordini da app in gestione consegne
 - Fix su Aggiungi importo, pulsante esc per annullare inserimento
 - Aggiunta funzione sposta consegna in Report consegne
+- Fix consegne non completate visibili in Report consegne
 
 
 ## Versione 2.2.0
