@@ -1,3 +1,8 @@
+## Versione 2.2.2
+- BugFix data consegne selezionata non corretta su caricamento consegne in gestion consegne
+- BugFix creati campi Null Prenotazione e App su sposta consegna in gestione consegne 
+
+
 ## Versione 2.2.1
 - Aggiunta funzione Prenotazione in gestione consegne
 - Aggiunta funzione Apri ordine per ordini da app in gestione consegne
