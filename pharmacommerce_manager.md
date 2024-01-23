@@ -1,5 +1,5 @@
 ## Versione 2.2.2
-- BugFix data consegne selezionata non corretta su caricamento consegne in gestion consegne
+- BugFix data consegne selezionata non corretta su caricamento consegne in gestione consegne
 - BugFix creati campi Null Prenotazione e App su sposta consegna in gestione consegne 
 
 
