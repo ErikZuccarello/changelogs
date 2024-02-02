@@ -1,3 +1,7 @@
+## Versione 2.2.3
+- BugFix importo totale per tipo di pagamento in Report consegne
+
+
 ## Versione 2.2.2
 - BugFix data consegne selezionata non corretta su caricamento consegne in gestione consegne
 - BugFix creati campi Null Prenotazione e App su sposta consegna in gestione consegne 
