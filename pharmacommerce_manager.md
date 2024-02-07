@@ -1,3 +1,7 @@
+## Versione 2.2.4
+- Fixes generali
+
+
 ## Versione 2.2.3
 - BugFix importo totale per tipo di pagamento in Report consegne
 
