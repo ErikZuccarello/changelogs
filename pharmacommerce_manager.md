@@ -1,3 +1,11 @@
+## Versione 2.3.0
+- Aggiunta sezione Gestione notifiche
+- Aggiunta funzione invio notifica per tipo in gestione notifiche
+- Aggiunta funzione ricerca prodotto in gestione notifiche
+- Aggiunta visualizzazione categorie in gestione notifiche
+- Aggiunta funzione immagine su notifica in gestione notifiche
+
+
 ## Versione 2.2.4
 - Fixes generali
 
