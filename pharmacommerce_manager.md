@@ -1,3 +1,9 @@
+## Versione 2.3.1
+- BugFix ricerca prodotti in Gestione notifiche
+- Aggiunta campo id categoria specifico in Categorie
+- Aggiunta campo id categoria specifico in Gestione notifiche
+
+
 ## Versione 2.3.0
 - Aggiunta sezione Gestione notifiche
 - Aggiunta funzione invio notifica per tipo in gestione notifiche
