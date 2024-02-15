@@ -1,3 +1,7 @@
+## Versione 2.3.2
+- Fixes generali
+
+
 ## Versione 2.3.1
 - BugFix ricerca prodotti in Gestione notifiche
 - Aggiunta campo id categoria specifico in Categorie
