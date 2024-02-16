@@ -1,3 +1,9 @@
+## Versione 2.4.0
+- Aggiunto campo codice fiscale contatto in Gestione consegne
+- BugFix ricerca utente in Utenti
+- BugFix ricerca ordine in Ordini
+
+
 ## Versione 2.3.2
 - Fixes generali
 
