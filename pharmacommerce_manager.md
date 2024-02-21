@@ -1,3 +1,9 @@
+## Versione 2.4.2
+- BugFix aggiunta contenuto tipo categoria in Contenuti
+- BugFix consegne in corso in Report consegne
+
+
+
 ## Versione 2.4.1
 - BugFix ricerca contatto in Gestione consegne
  
