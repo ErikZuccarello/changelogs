@@ -1,3 +1,8 @@
+## Versione 2.4.4
+- BugFix campo codice fiscale da importazione WhatsApp in Gestione consegne
+
+
+
 ## Versione 2.4.3
 - BugFix etichetta ordine app in Gestione consegne
 
