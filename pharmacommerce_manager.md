@@ -1,3 +1,10 @@
+## Versione 2.5.0
+- Aggiunta interfaccia schermo intero
+- Aggiunto Gestore notifiche esterne in Gestione notifiche
+- Fixes generali
+
+
+
 ## Versione 2.4.4
 - BugFix campo codice fiscale da importazione WhatsApp in Gestione consegne
 
