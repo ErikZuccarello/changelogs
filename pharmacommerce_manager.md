@@ -1,6 +1,8 @@
 ## Versione 2.5.0
-- Aggiunta interfaccia schermo intero
+- Interfaccia schermo intero
 - Aggiunto Gestore notifiche esterne in Gestione notifiche
+- Miglioramento intefaccia in Monitora consegne
+- Aggiunte informazioni statistiche in Monitora consegne
 - Fixes generali
 
 
