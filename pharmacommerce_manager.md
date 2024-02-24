@@ -1,3 +1,9 @@
+## Versione 2.5.1
+- BugFix sposta consegna in Report consegne
+- Fixes generali
+
+
+
 ## Versione 2.5.0
 - Interfaccia schermo intero
 - Aggiunto Gestore notifiche esterne in Gestione notifiche
