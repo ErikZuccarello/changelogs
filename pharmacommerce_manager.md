@@ -1,3 +1,8 @@
+## Versione 2.5.2
+- BugFix nuovo contatto su nuova lista in Gestione consegne
+- Fixes generali
+
+
 ## Versione 2.5.1
 - BugFix sposta consegna in Report consegne
 - Fixes generali
