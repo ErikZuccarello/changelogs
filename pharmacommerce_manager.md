@@ -1,7 +1,7 @@
 ## Versione 2.6.0
 - Aggiunta funzione Fuori route per consegne escluse dal percorso in Gestione consegne
 - Rimosso totale automaticamente aggiunto in Gestione consegne per consegne da ordini su app
-
+- Fixes generali
 
 
 ## Versione 2.5.2
