@@ -1,3 +1,10 @@
+## Versione 2.8.0
+- Aggiunto indicatore ordini da app in attesa in Gestione consegne
+- Aggiunta funzione ricarica ordini da app in attesa in Gestione consegne
+- Fixes generali
+
+
+
 ## Versione 2.7.0
 - Aggiunta funzione visualizza consegne fuori route in Gestione consegne
 - Aggiunto codice QR carta fedeltà in Dettagli ordine
