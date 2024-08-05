@@ -1,3 +1,9 @@
+## Versione 2.9.0
+- Aggiunte info pagamento Split in Report consegne
+- Fixes generali
+
+
+
 ## Versione 2.8.0
 - Aggiunto indicatore ordini da app in attesa in Gestione consegne
 - Aggiunta funzione ricarica ordini da app in attesa in Gestione consegne
