@@ -1,3 +1,9 @@
+## Verrsione 2.9.1
+- BugFix aggiunta ordini da app in percorso consegne
+- Fixes generali
+
+
+
 ## Versione 2.9.0
 - Aggiunte info pagamento Split in Report consegne
 - Fixes generali
