@@ -1,3 +1,8 @@
+## Versione 2.9.2
+- BugFix aggiunta consegne spostate in percorso consegne
+
+
+
 ## Verrsione 2.9.1
 - BugFix aggiunta ordini da app in percorso consegne
 - Fixes generali
