@@ -1,3 +1,12 @@
+## Versione 2.10.0
+- Aggiunto orario ordine in Dettagli ordine
+- Aggiunto totale ordine in Dettagli ordine
+- Aggiunto sconto in Dettagli ordine
+- BugFix indicatore ordini da app in Gestione consegne
+- Fixes generali
+
+
+
 ## Versione 2.9.2
 - BugFix aggiunta consegne spostate in percorso consegne
 
