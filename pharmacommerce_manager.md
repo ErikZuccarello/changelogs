@@ -1,3 +1,14 @@
+## Versione 3.0.0
+- Aggiunta sezione Clienti
+- Aggiunto controllo pagamenti in sospeso in Clienti
+- Aggiunte funzioni rimozione e aggiunta pagamenti in sospeso in Clienti
+- Aggiunte funzioni modifica e rimuovi contatto in Clienti
+- Aggiunte funzioni modifica e rimuovi contatto in Gestione consegne
+- Aggiunto controllo e caricamento automatico pagamenti sospesi per cliente in Gestione consegne
+- Fixes generali
+
+
+
 ## Versione 2.10.0
 - Aggiunto orario ordine in Dettagli ordine
 - Aggiunto totale ordine in Dettagli ordine
