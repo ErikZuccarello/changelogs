@@ -1,3 +1,8 @@
+## Versione 4.0.2
+- BugFix stampa etichette da codici prodotto EAN in Articoli
+
+
+
 ## Versione 4.0.1
 - Fix stampa etichette da codici prodotto EAN in Articoli
 
