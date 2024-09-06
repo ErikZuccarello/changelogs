@@ -1,3 +1,11 @@
+## Versione 4.0.0
+- Aggiunta sezione Articoli
+- Aggiunta funzione ricerca prodotti in Articoli
+- Aggiunta funzione selezione template etichetta in Articoli
+- Aggiunta funzione stampa etichette multiple da codici prodotto in Articoli
+
+
+
 ## Versione 3.0.0
 - Aggiunta sezione Clienti
 - Aggiunto controllo pagamenti in sospeso in Clienti
