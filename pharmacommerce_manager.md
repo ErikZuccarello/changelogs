@@ -1,3 +1,10 @@
+## Versione 4.1.0
+- Fix prezzo scontato su etichette in Articoli
+- Aggiunta funzione rimuovi categorizzazione in Categorie
+- Fixes generali
+
+
+
 ## Versione 4.0.2
 - BugFix stampa etichette da codici prodotto EAN in Articoli
 
