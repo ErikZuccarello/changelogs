@@ -1,3 +1,11 @@
+## Versione 4.3.0
+- Aggiunto caricamento progressivo ordini da app in Ordini
+- Fix ordinamento automatico per data ordine più recente in Ordini
+- Aggiunta funzione contrassega ordine come consegnato in Dettagli ordine
+- Aggiunto aggiornamento automatico contatore ordini da app in Gestione consegne
+
+
+
 ## Versione 4.2.0
 - Aggiunta funzione ricalcolo percorso per includere consegne in attesa in Percorso consegne
 - Aggiunta funzione backup ultimo percorso ottimizzato in Percorso consegne
