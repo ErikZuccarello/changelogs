@@ -1,5 +1,6 @@
 ## Versione 4.3.0
 - Aggiunto caricamento progressivo ordini da app in Ordini
+- Aggiunta colorazione per ordine da app consegnato in Ordini
 - Fix ordinamento automatico per data ordine più recente in Ordini
 - Aggiunta funzione contrassega ordine come consegnato in Dettagli ordine
 - Aggiunto aggiornamento automatico contatore ordini da app in Gestione consegne
