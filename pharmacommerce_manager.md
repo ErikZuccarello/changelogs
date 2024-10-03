@@ -1,3 +1,10 @@
+## Versione 4.2.0
+- Aggiunta funzione ricalcolo percorso per includere consegne in attesa in Percorso consegne
+- Aggiunta funzione backup ultimo percorso ottimizzato in Percorso consegne
+- Fixes generali
+
+
+
 ## Versione 4.1.0
 - Fix prezzo scontato su etichette in Articoli
 - Aggiunta funzione rimuovi categorizzazione in Categorie
