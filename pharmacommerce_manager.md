@@ -1,3 +1,9 @@
+## Versione 4.4.0
+- Aggiunto caricamento ordini da app per data in Ordini
+- BugFix ordini da app duplicati in Ordini
+
+
+
 ## Versione 4.3.0
 - Aggiunto caricamento progressivo ordini da app in Ordini
 - Aggiunta colorazione per ordine da app consegnato in Ordini
