@@ -1,3 +1,8 @@
+## Versione 4.4.2
+- Aggiunto avviso a schermo per ordini da App in attesa in Gestione consegne
+
+
+
 ## Versione 4.4.1
 - Fix Updater
 
