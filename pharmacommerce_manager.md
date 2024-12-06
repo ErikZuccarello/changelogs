@@ -1,3 +1,8 @@
+## Versione 4.4.4
+- Fix gestione risorse Firestore Database
+
+
+
 ## Versione 4.4.3
 - BugFix avviso a schermo per ordini da App in attes in Gestione consegne
 
