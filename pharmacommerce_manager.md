@@ -3,6 +3,7 @@
 - Aggiunto campo giro consegne per stampa etichetta in Gestione consegne
 - Aggiunta funzione selezione giro di consegna per sposta consega in Gestione consegne
 - Aggiunta funzione selezione giro di consegne per aggiunta a lista consegne in Dettagli ordine
+- Aggiunta funzione selezione giro di consegne per ottimizzazione in Percorso consegne
 - Aggiunta visualizzazione per giro di consegne in Monitora consegne
 - Aggiunta visualizzazione report per giro di consegne in Report consegne
 - Aggiunta funzione selezione giro di consegna per sposta consegna in Report consegne
