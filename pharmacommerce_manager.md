@@ -1,3 +1,15 @@
+## Versione 4.5.0
+- Aggiunta funzione selezione giro di consegne in Gestione consegne
+- Aggiunto campo giro consegne per stampa etichetta in Gestione consegne
+- Aggiunta funzione selezione giro di consegna per sposta consega in Gestione consegne
+- Aggiunta funzione selezione giro di consegne per aggiunta a lista consegne in Dettagli ordine
+- Aggiunta visualizzazione per giro di consegne in Monitora consegne
+- Aggiunta visualizzazione report per giro di consegne in Report consegne
+- Aggiunta funzione selezione giro di consegna per sposta consegna in Report consegne
+- Fixes generali
+
+
+
 ## Versione 4.4.4
 - Fix gestione risorse Firestore Database
 
