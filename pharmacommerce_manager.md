@@ -1,3 +1,8 @@
+## Versione 4.5.1
+- BugFix rimozione consegna da giro per sposta consegna in Gestione consegne
+
+
+
 ## Versione 4.5.0
 - Aggiunta funzione selezione giro di consegne in Gestione consegne
 - Aggiunto campo giro consegne per stampa etichetta in Gestione consegne
