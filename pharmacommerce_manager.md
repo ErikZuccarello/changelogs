@@ -1,3 +1,10 @@
+## Versione 4.6.0
+- Aggiunto contatore consegne In Route in Gestione consegne
+- Aggiunto contatore consegne rimanenti in Gestione consegne
+- Fixes generali
+
+
+
 ## Versione 4.5.1
 - BugFix rimozione consegna da giro per sposta consegna in Gestione consegne
 
