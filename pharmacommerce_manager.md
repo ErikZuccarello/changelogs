@@ -1,3 +1,9 @@
+## Versione 4.6.1
+- BugFix contatori consegne in route - rimanenti in Gestione consegne
+- Aggiunta funzione ricalcola per consegne in route - rimanenti in Gestione consegne
+
+
+
 ## Versione 4.6.0
 - Aggiunto contatore consegne In Route in Gestione consegne
 - Aggiunto contatore consegne rimanenti in Gestione consegne
