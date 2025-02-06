@@ -1,3 +1,9 @@
+## Versione 4.6.2
+- BugFix caricamento pagamenti sospesi in Clienti
+- Fixes generali
+
+
+
 ## Versione 4.6.1
 - BugFix contatori consegne in route - rimanenti in Gestione consegne
 - Aggiunta funzione ricalcola per consegne in route - rimanenti in Gestione consegne
