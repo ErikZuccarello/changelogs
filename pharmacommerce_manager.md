@@ -1,3 +1,9 @@
+## Versione 4.7.0
+- Aggiunta funzione Genera Deep Link per App in Articoli
+- Fixes generali
+
+
+
 ## Versione 4.6.2
 - BugFix caricamento pagamenti sospesi in Clienti
 - Fixes generali
