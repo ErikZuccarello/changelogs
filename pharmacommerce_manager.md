@@ -1,3 +1,8 @@
+## Versione 4.8.0
+- Aggiunta lista categorie per generazione deep link app in Articoli
+
+
+
 ## Versione 4.7.0
 - Aggiunta funzione Genera Deep Link per App in Articoli
 - Fixes generali
