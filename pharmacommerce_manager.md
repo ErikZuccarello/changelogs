@@ -1,3 +1,10 @@
+## Versione 4.9.0
+- Aggiunto campo Fidelity in lista clienti
+- Aggiunta funzione apertura finestra clienti always-on-top in Gestione consegne
+- Fixes generali
+
+
+
 ## Versione 4.8.0
 - Aggiunta lista categorie per generazione deep link app in Articoli
 
