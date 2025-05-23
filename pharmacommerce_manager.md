@@ -1,5 +1,6 @@
 ## Versione 4.9.1
 - Aggiunto campo fidelity per funzione aggiungi alle consegne in Dettagli ordine
+- Fixes generali
 
 
 
