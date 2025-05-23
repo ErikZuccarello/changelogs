@@ -1,3 +1,8 @@
+## Versione 4.9.1
+- Aggiunto campo fidelity per funzione aggiungi alle consegne in Dettagli ordine
+
+
+
 ## Versione 4.9.0
 - Aggiunto campo Fidelity in lista clienti
 - Aggiunta funzione apertura finestra clienti always-on-top in Gestione consegne
