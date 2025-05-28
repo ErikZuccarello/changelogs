@@ -1,3 +1,9 @@
+## Versione 4.10.0
+- Aggiunta funzione Evidenzia in Gestione consegne
+- Fixes generali
+
+
+
 ## Versione 4.9.1
 - Aggiunto campo fidelity per funzione aggiungi alle consegne in Dettagli ordine
 - Fixes generali
