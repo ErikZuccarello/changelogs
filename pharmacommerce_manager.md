@@ -1,3 +1,8 @@
+## Versione 4.10.1
+- Fix generazione deep link app in Articoli
+
+
+
 ## Versione 4.10.0
 - Aggiunta funzione Evidenzia in Gestione consegne
 - Fixes generali
