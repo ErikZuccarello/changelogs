@@ -1,3 +1,9 @@
+## Versione 4.10.2
+- BugFix Sposta consegna in Report consegne
+- Fixes generali
+
+
+
 ## Versione 4.10.1
 - Fix generazione deep link app in Articoli
 
