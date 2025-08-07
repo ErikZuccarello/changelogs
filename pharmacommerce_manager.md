@@ -1,3 +1,9 @@
+## Versione 4.10.3
+- Aggiunta dicitura "CONSEGNA SPOSTATA" su campo prenotazione per consegne spostate da Report consegne
+- Fixes generali
+
+
+
 ## Versione 4.10.2
 - BugFix Sposta consegna in Report consegne
 - Fixes generali
