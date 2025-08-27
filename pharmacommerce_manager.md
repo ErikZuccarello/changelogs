@@ -1,3 +1,9 @@
+## Versione 4.11.0
+- Aggiunto campo Note in Dettagli ordine
+- Fixes generali
+
+
+
 ## Versione 4.10.3
 - Aggiunta dicitura "CONSEGNA SPOSTATA" su campo prenotazione per consegne spostate da Report consegne
 - Fixes generali
