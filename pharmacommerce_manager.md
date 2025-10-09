@@ -1,3 +1,8 @@
+## Versione 4.12.0
+- Aggiunta gestione stampanti multiple per etichette di consegna
+
+
+
 ## Versione 4.11.0
 - Aggiunto campo Note in Dettagli ordine
 - Fixes generali
