@@ -1,3 +1,8 @@
+## Versione 4.12.1
+- BugFix stampa etichetta per ordini da app
+
+
+
 ## Versione 4.12.0
 - Aggiunta gestione stampanti multiple per etichette di consegna
 
