@@ -1,3 +1,8 @@
+## Versione 4.12.2
+- Fix visualizzazione log errori in ottimizzazione percorso
+
+
+
 ## Versione 4.12.1
 - BugFix stampa etichetta per ordini da app
 
