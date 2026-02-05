@@ -1,3 +1,9 @@
+## Versione 4.12.3
+- Fix visualizzazione utenti e gestione verifica inattività
+- Fixes generali
+
+
+
 ## Versione 4.12.2
 - Fix visualizzazione log errori in ottimizzazione percorso
 
