@@ -1,3 +1,8 @@
+## Versione 4.13.0
+- Aggiunta funzione Allineamento prezzi in Articoli
+
+
+
 ## Versione 4.12.3
 - Fix visualizzazione utenti e gestione verifica inattività
 - Fixes generali
