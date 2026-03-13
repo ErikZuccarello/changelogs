@@ -1,3 +1,9 @@
+## Versione 4.13.1
+- Aggiunto campo città in Ordini
+- Cambio stato ordine "in preparazione" automatico per aggiungi alle consegne in Dettagli ordine
+
+
+
 ## Versione 4.13.0
 - Aggiunta funzione Allineamento prezzi in Articoli
 
