@@ -1,3 +1,9 @@
+## Versione 4.13.3
+- Aggiunta funzione metodo di pagamento in Gestione consegne
+- Aggiunto campo pagamento in stampa etichetta
+
+
+
 ## Versione 4.13.2
 - Aggiunti campi punti fedeltà in Dettagli ordine
 - BugFix campo città su paginazione in Ordini
