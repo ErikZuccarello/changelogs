@@ -1,3 +1,18 @@
+## Versione 5.0.0
+- Applicazione ricreata con nuovo framework: stesse sezioni, stessi dati, interfaccia nuova, tempi di caricamento ridotti
+- Aggiunto tema chiaro e scuro, che segue l'impostazione del sistema
+- Aggiunto aggiornamento automatico: scarica solo gli aggiornamenti effettivi e si riavvia in automatico
+- Aggiunta schermata di avvio con controllo licenza e versione
+- Aggiunta correzione a mano dell'ordine di visita in Percorso
+- Aggiunta segnalazione degli indirizzi non riconosciuti in Percorso
+- Nuova mappa in Monitor
+- Unificata la rubrica clienti, prima presente in tre copie diverse
+- Aggiunta anteprima di immagini e video in Contenuti
+- Aggiunti contatore caratteri e conferma dei destinatari in Notifiche
+- Fixes generali
+
+
+
 ## Versione 4.13.3
 - Aggiunta funzione metodo di pagamento in Gestione consegne
 - Aggiunto campo pagamento in stampa etichetta
