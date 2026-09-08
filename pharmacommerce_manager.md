@@ -9,6 +9,8 @@
 - Unificata la rubrica clienti, prima presente in tre copie diverse
 - Aggiunta anteprima di immagini e video in Contenuti
 - Aggiunti contatore caratteri e conferma dei destinatari in Notifiche
+- Aggiunta visualizzazione chat PharmaBot in azioni su consegna
+- Aggiunto indicatore metodo di pagamento in Importo su consegna
 - Fixes generali
 
 
