@@ -1,3 +1,11 @@
+## Versione 5.0.1
+- BugFix stampa etichetta non inviata
+- Fix campi selezionati in Azioni consegna
+- Colori di stato aggiunti ai pulsanti Azioni
+- Fix scorrimento lista consegne dopo azione effettuata
+
+
+
 ## Versione 5.0.0
 - Applicazione ricreata con nuovo framework: stesse sezioni, stessi dati, interfaccia nuova, tempi di caricamento ridotti
 - Aggiunto tema chiaro e scuro, che segue l'impostazione del sistema
