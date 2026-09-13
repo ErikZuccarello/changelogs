@@ -1,3 +1,11 @@
+## Versione 5.1.0
+- Fix stampa etichette Brother bpac 64bit
+- Modificati template etichette consegna
+- Aggiunti i controlli di stato del messaggio in visualizzazione chat
+- Aggiunto invio messaggi manuali in visualizzazione chat
+
+
+
 ## Versione 5.0.1
 - BugFix stampa etichetta non inviata
 - Fix campi selezionati in Azioni consegna
