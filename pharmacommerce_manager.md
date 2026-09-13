@@ -3,6 +3,7 @@
 - Modificati template etichette consegna
 - Aggiunti i controlli di stato del messaggio in visualizzazione chat
 - Aggiunto invio messaggi manuali in visualizzazione chat
+- Aggiunta funzione riattiva AI in visualizzazione chat
 
 
 
