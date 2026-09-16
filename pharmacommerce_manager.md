@@ -1,3 +1,8 @@
+## Versione 5.1.1
+- TryFix stampa etichette Brother bpac 64bit
+
+
+
 ## Versione 5.1.0
 - Fix stampa etichette Brother bpac 64bit
 - Modificati template etichette consegna
