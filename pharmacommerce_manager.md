@@ -1,5 +1,5 @@
 ## Versione 5.1.1
-- TryFix stampa etichette Brother bpac 64bit
+- TryFix stampa etichette Brother bpac 64bit con logging errori
 
 
 
