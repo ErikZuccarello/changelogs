@@ -1,3 +1,10 @@
+## Versione 5.1.2
+- Fix focus su campo ricerca cliente su nuova consegna
+- Ricerca cliente senza ordinamento specifico su nuova consegna
+- Stato della schermata consegne invariato dopo apertura ordine da app
+
+
+
 ## Versione 5.1.1
 - TryFix stampa etichette Brother bpac 64bit
 - Logging errori su stampa etichette
