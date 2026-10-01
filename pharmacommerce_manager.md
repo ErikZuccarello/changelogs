@@ -1,3 +1,9 @@
+## Versione 5.1.3
+- Aggiunta copia codice prodotto con doppio click sulla riga in Dettagli ordine
+- Fixes generali
+
+
+
 ## Versione 5.1.2
 - Fix focus su campo ricerca cliente su nuova consegna
 - Ricerca cliente senza ordinamento specifico su nuova consegna
