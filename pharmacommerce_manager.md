@@ -1,3 +1,9 @@
+## Versione 5.1.4
+- Rimosso cambio background color al passaggio del cursore sulle righe in Consegne
+- Aggiunti filtri consegne "In evidenza" e "In attesa"
+
+
+
 ## Versione 5.1.3
 - Aggiunta copia codice prodotto con doppio click sulla riga in Dettagli ordine
 - Fixes generali
