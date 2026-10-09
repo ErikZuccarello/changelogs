@@ -1,3 +1,9 @@
+## Versione 5.1.5
+- Ordinamento colonne cliente/pagamento in Report
+- Aggiunta visualizzazione immagini inviate dal cliente in chat
+
+
+
 ## Versione 5.1.4
 - Rimosso cambio background color al passaggio del cursore sulle righe in Consegne
 - Aggiunti filtri consegne "In evidenza" e "In attesa"
