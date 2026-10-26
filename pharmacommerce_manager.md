@@ -1,3 +1,9 @@
+## Versione 5.1.6
+- Aggiunto indicatore "da leggere" su consegna per nuovi messaggi WhatsApp ricevuti
+- Aggiunto numero etichette sul campo importo della consegna
+
+
+
 ## Versione 5.1.5
 - Ordinamento colonne cliente/pagamento in Report
 - Aggiunta visualizzazione immagini inviate dal cliente in chat
